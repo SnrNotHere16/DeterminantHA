@@ -1,2 +1,1 @@
-# DeterminantHA
-Determinant of a Matrix done on a Hardware Accelerator
+The following project was created on vivado 2019.1 
